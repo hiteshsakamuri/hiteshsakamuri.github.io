@@ -28,7 +28,8 @@ function ContactMe() {
             return;
         }
         console.log(state);
-        alert('Message sent! Redirecting to Home Page');
+        alert('Message sent!');
+        window.location.href = "/";
     };
 
     const handleChange = (e) => {
