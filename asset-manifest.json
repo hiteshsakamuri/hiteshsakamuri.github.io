@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hiteshsakamuri.github.io/static/css/main.3a511401.css",
+    "main.js": "/hiteshsakamuri.github.io/static/js/main.998f35a2.js",
+    "static/js/453.acca0757.chunk.js": "/hiteshsakamuri.github.io/static/js/453.acca0757.chunk.js",
+    "static/media/aboutme.jpg": "/hiteshsakamuri.github.io/static/media/aboutme.32a52820a75aaec785ef.jpg",
+    "static/media/reactnode.png": "/hiteshsakamuri.github.io/static/media/reactnode.cab55f808caf76f27476.png",
+    "static/media/api.png": "/hiteshsakamuri.github.io/static/media/api.f59cab9e08eae51f03d1.png",
+    "static/media/rwd.png": "/hiteshsakamuri.github.io/static/media/rwd.983a68d46572eacf4dea.png",
+    "static/media/logo.png": "/hiteshsakamuri.github.io/static/media/logo.8db4c28347b0500edd06.png",
+    "index.html": "/hiteshsakamuri.github.io/index.html",
+    "main.3a511401.css.map": "/hiteshsakamuri.github.io/static/css/main.3a511401.css.map",
+    "main.998f35a2.js.map": "/hiteshsakamuri.github.io/static/js/main.998f35a2.js.map",
+    "453.acca0757.chunk.js.map": "/hiteshsakamuri.github.io/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a511401.css",
+    "static/js/main.998f35a2.js"
+  ]
+}
